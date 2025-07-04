@@ -1,0 +1,14 @@
+User-agent: *
+User-agent: Yandex
+Clean-param: utm_source&utm_medium&utm_campaign / 
+Allow: /
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /search/
+Disallow: /?s=
+Disallow: /*?*
+Disallow: /xmlrpc.php
+Disallow: /feed/
+
+Sitemap: https://подкастдлявас.рф/sitemap.xml
