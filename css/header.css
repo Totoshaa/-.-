@@ -1,0 +1,8 @@
+header{
+    background-image: url(/img/big_pictures/background.webp);
+}
+@media (max-width: 639px) {
+    header{
+        background-image: url(/img/big_pictures/background_small.webp);
+    }
+}
